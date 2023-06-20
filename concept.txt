@@ -1,0 +1,4 @@
+Learn about: post man api
+working of script tag: or add js file in that.
+takkin input and output using prompt and alert.
+History of Nanila js:all concepts.(also JQuery)
