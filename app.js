@@ -19,4 +19,18 @@ console.log(textArea2);
 //   console.log(value);
 // });
 
+// var textArea2 = document.querySelector("#textarea1");
+// console.log(textArea2);
+
+
+// Now printing the elements of textarea in console
+var textArea2 = document.querySelector("#textarea1");
+
+function clickHandler(){
+    console.log(textArea2.value);
+}
+
+textArea2.addEventListener("click",clickHandler());
+
+
 
