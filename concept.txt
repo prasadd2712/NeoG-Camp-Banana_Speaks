@@ -1,4 +1,29 @@
-Learn about: post man api
+Learn about: post man api:
+
+Postman is a popular API development and testing tool that provides a user-friendly interface for interacting with APIs. It offers a wide range of features and functionalities that help developers streamline the API development process.
+
 working of script tag: or add js file in that.
+
 takkin input and output using prompt and alert.
+
 History of Nanila js:all concepts.(also JQuery)
+how the server requests works and check it out in the network
+use post man 
+
+event listeners:
+addEventListener:
+The addEventListener method is used to attach an event listener to an element. It can listen for various event types and trigger a callback function when the event occurs. Examples of event types include:
+
+click: Triggered when the element is clicked.
+mouseover/mouseout: Triggered when the mouse cursor enters/leaves the element.
+keydown/keyup: Triggered when a key is pressed/released while the element has focus.
+submit: Triggered when a form is submitted.
+load: Triggered when the element or the entire document finishes loading.
+
+# querySelector
+
+u can make an api project
+different types of calling api :postman and javascriot console me fetch( ) method
+all about json values how to convert into json file
+>> Promises::
+arrow functions

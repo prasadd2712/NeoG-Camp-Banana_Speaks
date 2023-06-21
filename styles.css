@@ -1,0 +1,12 @@
+#textarea1{
+    width: 80%;
+    height:10vh;
+    display:block;
+    margin: 0rem 1rem;
+    padding: 1rem;
+
+}
+#new-btn{
+    margin: 1rem;
+    padding: 5px;
+}
